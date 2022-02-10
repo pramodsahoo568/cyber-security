@@ -1,0 +1,10 @@
+
+>git init
+>git remote add origin https://github.com/pramodsahoo568/cyber-security.git
+>git push --set-upstream origin master
+>git pull https://github.com/pramodsahoo568/cyber-security.git --allow-unrelated-histories
+git push --set-upstream origin master
+>git add README.md
+git commit -m "first commit"
+
+>git push
